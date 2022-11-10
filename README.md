@@ -12,7 +12,7 @@ INFO:root:Loaded checkpoint 'path\to\model.pth' (iteration XXX)
 ## Text to speech
 ```
 TTS or VC? (t/v):t
-Text to read: こんにちは。
+Text to read: ¿quieres jugar lolsito?
 ID      Speaker
 0       XXXX
 1       XXXX
